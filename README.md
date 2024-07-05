@@ -28,4 +28,5 @@ Este proyecto es una API RESTful construida con Spring Boot 3, que implementa op
 
 2. **Base de datos**
 
-    Dentro del proyecto en el directorio data, se encuentra el script para ejecutarlo en el cliente de mysql de su preferencia
+    Dentro del proyecto en el directorio data, se encuentra el script para ejecutarlo en el cliente de mysql de su preferencia, cambiar las credenciales de acceso a la base de datos en el archivo application.properties
+    
